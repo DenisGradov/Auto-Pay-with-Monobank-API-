@@ -6,4 +6,3 @@ Next, through any code editor open the file config.py and configure it. tg - API
 To start the project - just run main.py through python
 The script was implemented through a comment. When you first run the bot - a person entered into the database, in the column "Code" is written to him randomly generated kommentariy. Every 2 minutes the bot receives the bank statement and cycles through all the payment comments. If the comment coincides with a comment of some person from the database, the bot will credit the received amount to the user's balance, and also creates a new comment and assigns it to the person
 
-Translated with www.DeepL.com/Translator (free version)

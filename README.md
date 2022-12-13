@@ -1,5 +1,7 @@
 This script - demonstration of working with Api Monobank. It allows you to make balance top up in telegram bot from any Ukrainian card, or just through google pay. First you need to install the latest version of python, and the necessary libraries
+
 >pip install pyTelegramBotAPI
+
 >pip install monobank
 
 Next, through any code editor open the file config.py and configure it. tg - API token telegram bot, which you can get in the bot @botfather. admin - admin admin bot, you can get it in the bot @userinfobot. Api_mono - monobank API token, which can be obtained here https://api.monobank.ua . And link_mono - link to the jar, which you can get inside the application
